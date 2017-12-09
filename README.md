@@ -1,7 +1,7 @@
 
 # TinyOS v.3
 
-Founder: Vasilis Samoladas, http://www.ece.tuc.gr/index.php?id=4169
+Founder: Vasilis Samoladas, http://www.ece.tuc.gr/index.php?id=4535
 
 TinyOS is a very small operating system, built on top of a simple-minded virtual machine, whose purpose is
 purely educational. It is not related in any way to the well-known operating system for wireless sensors,
