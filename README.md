@@ -17,6 +17,8 @@ extensions are planned for the future.
 
 After downloading the code, just build it.
 ```
+$ touch .depend
+$ make depend
 $ make
 ```
 If all goes well, the code should build without warnings. Then, you can run your first instance of tinyos,
